@@ -1,9 +1,9 @@
-# Do you want to learn how to use <Styles> tag?
+# Do you want to learn how to use Styles tag?
 
 ## If your answer was "yes", welcome!
 
 In this small project you can learn how to make styles, how to inherit styles
-and how to use <EventSetter>'s!
+and how to use EventSetter's!
 
 
 
